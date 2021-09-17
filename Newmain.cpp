@@ -4,8 +4,17 @@ using namespace std;
 
 int main()
 {
-	cout << "hello world" << endl;
-	cout << 1 + 1 << endl;
+	int MyCash = 2147483647;
+	float HP = 100.0f;
+	char H = '\b';
+
+	cout << "aaa" << H;
+
+
+
+
+	cout << &MyCash;
+
 
 	return 0;
 
