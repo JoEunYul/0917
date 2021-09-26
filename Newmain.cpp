@@ -47,7 +47,7 @@ int main()
 
 
 	char C = 512;
-	cout << C << endl;
+	cout << C << "finish" << endl;
 
 
 
